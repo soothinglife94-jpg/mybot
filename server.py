@@ -3,7 +3,7 @@ import bot  # shares visited_users with bot.py
 
 app = Flask(__name__)
 
-AD_URL = "https://your-ad-link.com"  # your real ad link here
+AD_URL = "https://omg10.com/4/11066405"  # your real ad link here
 
 @app.route("/visit")
 def visit():

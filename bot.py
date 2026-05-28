@@ -3,7 +3,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandle
 
 
 TOKEN = "8068190455:AAFJKFYSf18-2H_1eI9NuGzmg-pw8ErUyQg"
-MIDDLE_URL = "https://your-railway-app.up.railway.app/visit"
+MIDDLE_URL = "mybot-production-2e24.up.railway.app"
 
 # ✅ Add all your video file IDs here
 VIDEO_IDS = [
